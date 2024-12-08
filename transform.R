@@ -1,0 +1,6 @@
+rep(2,10)
+rep("A", 10)
+rep(c(2,4,6),10)
+rep(1:5,2)
+rep(1:5,each=2)
+rep(1:5, each=2, times=3)
